@@ -1015,6 +1015,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="DatabaseScripts\" />
     <Folder Include="Views\ContactViewModel\" />
   </ItemGroup>
   <ItemGroup>
